@@ -124,7 +124,7 @@ Go to **Sketch → Include Library → Manage Libraries** and install:
 ### Step 4 — Clone the Repository
 
 ``` bash
-git clone https://github.com/ayuuXploits/DIY_emo_bot.git
+git clone https://github.com/ayuxploits/DIY_emo_bot.git
 cd DIY_emo_bot
 ```
 
@@ -299,7 +299,7 @@ WiFi is connected but NTP hasn't responded yet — wait up to 10 seconds. The co
 
 ## 📜 License
 
-**© 2026 ayuuXploits — All Rights Reserved.**
+**© 2026 ayuxploits — All Rights Reserved.**
 
 This project and its source code are proprietary. You may build it for personal use, but redistribution, modification for commercial purposes, or re-publishing without permission is not allowed.
 
